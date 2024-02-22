@@ -1,13 +1,20 @@
 @font-face {
-    font-family: Oliver;
-    src: url('62ff60a9c7c585aeda50c7a1_Oliver-Regular.otf');
+    font-family: GT America;
+    src: url('assets/fonts/GT-America-Standard-Regular.otf');
     font-weight: normal;
     font-style: normal;
 }
 
+
 @font-face{
     font-family: GT Walsheim;
-    src: url( '62ff4ce539e6a11727de11d1_GT-Walsheim-Ultra-Bold.ttf');
+    src: url( 'assets/fonts/GT-Walsheim-Ultra-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: oliver;
+    src: url( 'assets/fonts/Oliver-Regular.otf');
     font-weight: normal;
     font-style: normal;
 }
